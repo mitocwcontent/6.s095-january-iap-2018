@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Puzzle 3: You Can Read Minds'
+uid: 0e49f2d5-1ca9-6185-f293-5c74103074d8
+video_files:
+  archive_url: https://archive.org/download/MIT6.S095IAP18/MIT6_S095IAP18_Puzzle_03_300k.mp4
+  video_captions_file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/53fb19b5eeef5c40ba399a20a3b356f8_zDHhHPZm2rc.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/zDHhHPZm2rc/default.jpg
+  video_transcript_file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/f7a7d0f0ab92e2ebb4914c15232baeea_zDHhHPZm2rc.pdf
+video_metadata:
+  youtube_id: zDHhHPZm2rc
+---
